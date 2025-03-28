@@ -35,7 +35,7 @@ class _MyAppState extends State<MyApp> {
               onTap: () {
                 FlutterUmengCommon.onEvent('test', {
                   'test': 'test',
-                  'test1': 1,
+                  'test1': "124",
                 });
               },
               child: Text('onEvent')),

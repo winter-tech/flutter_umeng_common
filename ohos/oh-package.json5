@@ -1,0 +1,13 @@
+{
+  "name": "flutter_umeng_common",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@ohos/flutter_ohos": "file:./har/flutter.har",
+    "@umeng/analytics": "^1.2.4",
+    "@umeng/common": "^1.1.1"
+  }
+}

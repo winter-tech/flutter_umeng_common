@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "flutter_umeng_common_example"
+    },
+    {
+      "name": "reason",
+      "value": "采集oaid信息用于统计分析"
+    }
+  ]
+}
